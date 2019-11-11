@@ -8,12 +8,11 @@ This is the demo project, I have integrated two APIs for MovieDB APIS (https://w
 <img src="https://github.com/anshul18895/MVVMC-Demo/blob/master/Screenshots/details.png?raw=true" style="width: 250px; border: 1px 1px 0 0 #888995 solid;" width="250"></img>
 
 ## This are the key concepts I have used for this demo
-<li>
-<ol>MVVM stucture with Coordinators<br/></ol>
-<ol>Dependency Injection<br/></ol>
-<ol>Offline support usign RxCoreData<br/></ol>
-<ol>API Middle-Ware<br/></ol>
-</li>  
+<li>MVVM stucture with Coordinators<br/></li>
+<li>Dependency Injection<br/></li>
+<li>Offline support usign RxCoreData<br/></li>
+<li>API Middle-Ware<br/></li>
+
 
 ## Author
 
