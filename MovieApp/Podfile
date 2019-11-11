@@ -1,0 +1,31 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '11.0'
+  use_frameworks!
+
+def shared_pods
+
+  # Design
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  pod 'RxGesture'
+
+  # Network
+  pod 'Alamofire'
+  pod 'RxAlamofire'
+  pod 'Kingfisher', '~> 4.7.0'
+
+  #CoreData
+  pod 'RxCoreData'
+  pod 'RxDataSources'
+
+  #Alert
+  pod 'SwiftMessages', '4.1.4'
+    
+  # Activity Indicator
+  pod 'MBProgressHUD'
+
+end
+
+target 'MovieApp' do
+  shared_pods
+end

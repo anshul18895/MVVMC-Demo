@@ -1,0 +1,21 @@
+//
+//  Localizable.strings
+//  MovieApp
+//
+//  Created by Anshul Shah on 12/11/18.
+//  Copyright © 2018 Anshul Shah. All rights reserved.
+//
+
+
+"couldn't be found in Storyboard file" = "couldn't be found in Storyboard file";
+"Generic Error" = "Generic Error";
+"HTTP status code 403" = "HTTP status code 403";
+"Could not parse the json" = "Could not parse the json";
+"Unable to contact the server" = "Unable to contact the server";
+"Slow internet connection" = "Slow internet connection";
+"Unknown error" = "Unknown error";
+"Network error" = "Network error";
+"OK" = "OK";
+
+"Movie List" = "Movie List";
+"Minutes" = "Minutes";
